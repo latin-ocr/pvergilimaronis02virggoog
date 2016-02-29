@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvergilimaronis02virggoog_0003.png"; bbox 0 0 1320 1775; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 941 172 1053 357">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 941 172 1053 357">
+     <span class='ocr_line' id='line_1_1' title="bbox 952 172 1052 299; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 952 172 1052 299; x_wconf 43' lang='lat'>53³?</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 941 309 1053 357; baseline -0.027 -7"><span class='ocrx_word' id='word_1_2' title='bbox 941 313 983 350; x_wconf 83' lang='lat'>7‘</span> <span class='ocrx_word' id='word_1_3' title='bbox 997 309 1053 357; x_wconf 59' lang='lat'>47</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
